@@ -15,8 +15,8 @@
                     "type": "url"
                 },
                 {
-                    "name": "\ud83c\udf0d View Index of charges",
-                    "url": "https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do",
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Index of charges",
+                    "url": "https://www.mca.gov.in/mcafoportal/showIndexOfCharges.do",
                     "type": "url"
                 },
                 {
