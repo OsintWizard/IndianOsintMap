@@ -240,29 +240,17 @@
         {
             "name": "Geolocation / Maps \ud83d\uddfa",
             "children": [
-                           {
-                                "name": "\ud83d\udcd2 Edit 1",
-                                "children": [
-                                                {
-                                                    "name": "\ud83c\udf0d EarthOnDemand",
-                                                    "url": "https://earthondemand.astraea.earth",
-                                                    "type": "url"
-                                                }
-                                            ],
-                                "type": "folder"
+                            {
+                                "name": "\ud83d\udce6 Indian Geolocation and Maps",
+                                "url": "https://github.com/sharsil/mailcat",
+                                "type": "url"
                             },
                             {
-                                "name": "\ud83c\udf0d Edit 2",
-                                "children": [
-                                                {
-                                                    "name": "\ud83c\udf0d EarthOnDemand",
-                                                    "url": "https://earthondemand.astraea.earth",
-                                                    "type": "url"
-                                                }
-                                            ],
-                                 "type": "folder"
-                            },
-                          ],
+                                "name": "\ud83c\udf0d Global Geolocation and Maps",
+                                "url": "https://verify-email.org",
+                                "type": "url"
+                            }  
+                        ],
             "type": "folder"
         },
         {
