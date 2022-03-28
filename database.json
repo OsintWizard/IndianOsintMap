@@ -269,6 +269,11 @@
             "🇮🇳 🌍 View Index of charges": "https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do",
             "🇮🇳 🌍 View Company Signatory Details": "https://www.mca.gov.in/mcafoportal/viewSignatoryDetails.do",
             "🇮🇳 🌍 View Company Director Master Data": "https://www.mca.gov.in/mcafoportal/viewDirectorMasterData.do",
+            "🇮🇳 🌍 Check Limited Lialibity Partnership Name": "https://www.mca.gov.in/mcafoportal/showCheckLLPName.do",
+            "🇮🇳 🌍 Find Limited Liability Partnership Name": "https://www.mca.gov.in/mcafoportal/findLLPIN.do",
+            "🇮🇳 🌍 Check Company Name": "https://www.mca.gov.in/mcafoportal/showCheckCompanyName.do",
+            "🇮🇳 🌍 Check Company Identification Number": "https://www.mca.gov.in/mcafoportal/findCIN.do",
+            "🇮🇳 🌍 Public Search of Trademarks": "https://ipindiaonline.gov.in/tmrpublicsearch/frmmain.aspx",
             "📒 Dorking Tip": "https://twitter.com/OSINTcda/status/1493808415277150208",
             "🌍 OpenCoorporates": "https://opencorporates.com",
             "Shell Companies": {
