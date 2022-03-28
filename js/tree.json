@@ -3,12 +3,7 @@
     "children": [
         {
             "name": "Companies \ud83c\udfec",
-            "children": [
-                {
-                    "name": "\ud83d\udcd2 Dorking Tip",
-                    "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
-                    "type": "url"
-                },
+            "children": [                
                  {
                     "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Master data",
                     "url": "https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do",
@@ -17,6 +12,21 @@
                 {
                     "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Index of charges",
                     "url": "https://www.mca.gov.in/mcafoportal/showIndexOfCharges.do",
+                    "type": "url"
+                },
+                 {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Signatory Details",
+                    "url": "https://www.mca.gov.in/mcafoportal/viewSignatoryDetails.do",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Director Master Data",
+                    "url": "https://www.mca.gov.in/mcafoportal/viewDirectorMasterData.do",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udcd2 Dorking Tip",
+                    "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
                     "type": "url"
                 },
                 {
