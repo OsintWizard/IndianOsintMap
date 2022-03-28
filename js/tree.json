@@ -248,7 +248,47 @@
                                                     "url": "https://vedas.sac.gov.in/vstatic/vedas_visualization/index.html",
                                                     "type": "url"
                                                 }
-                                            ],
+                                                {
+                                                    "name": "\ud83c\uddee\ud83c\uddf3 Vegetation and crop Monitoring Application ",
+                                                    "url": "https://vedas.sac.gov.in/vegetation-monitoring/index.html",
+                                                    "type": "url"
+                                                }
+                                                {
+                                                    "name": "\ud83c\uddee\ud83c\uddf3 Desertification Monitoring Applications ",
+                                                    "url": "https://vedas.sac.gov.in/desertification/index.html",
+                                                    "type": "url"
+                                                }
+                                                {
+                                                    "name": "\ud83c\uddee\ud83c\uddf3 Data on Renewable Energy ",
+                                                    "url": "https://vedas.sac.gov.in/renewable-energy/index.html",
+                                                    "type": "url"
+                                                }
+                                                {
+                                                    "name": "\ud83c\uddee\ud83c\uddf3 Air Quality Monitoring ",
+                                                    "url": "https://vedas.sac.gov.in/air-quality-monitoring/index.html",
+                                                    "type": "url"
+                                                }
+                                                {
+                                                    "name": "\ud83c\uddee\ud83c\uddf3 Satelitte data on Snow Cover ",
+                                                    "url": "https://vedas.sac.gov.in/snow-cover/index.html",
+                                                    "type": "url"
+                                                }
+                                                {
+                                                    "name": "\ud83c\uddee\ud83c\uddf3 Urban Sprawl Information System ",
+                                                    "url": "https://vedas.sac.gov.in/usis/index.html",
+                                                    "type": "url"
+                                                }
+                                                {
+                                                    "name": "\ud83c\uddee\ud83c\uddf3 Hydrological Science and Applications systems ",
+                                                    "url": "https://vedas.sac.gov.in/hydro/index.html",
+                                                    "type": "url"
+                                                }
+                                                {
+                                                    "name": "\ud83c\uddee\ud83c\uddf3 Satelitte monitoring systems on Wetlands ",
+                                                    "url": "https://vedas.sac.gov.in/wetlands/index.html",
+                                                    "type": "url"
+                                                }
+                                            ],                                           
                                 "type": "folder"
                             },
                             {
