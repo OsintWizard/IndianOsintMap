@@ -247,10 +247,30 @@
                             "name": "\ud83d\udcd2 Satelitte Data",
                           "children": [
                         {
-                            "name": "\ud83c\udf0d EarthOnDemand",
+                            "name": "\ud83c\udf0d VEDAS",
                             "url": "https://earthondemand.astraea.earth",
                             "type": "url"
                         }
+                              {
+                            "name": "\ud83c\udf0d MOSDAC",
+                            "url": "https://earthondemand.astraea.earth",
+                            "type": "url"
+                              }
+                               {
+                            "name": "\ud83c\udf0d NRSC",
+                            "url": "https://earthondemand.astraea.earth",
+                            "type": "url"
+                              }
+                                 {
+                            "name": "\ud83c\udf0d BHUVAN",
+                            "url": "https://earthondemand.astraea.earth",
+                            "type": "url"
+                              }
+                              {
+                            "name": "\ud83c\udf0d BHOONIDHI",
+                            "url": "https://earthondemand.astraea.earth",
+                            "type": "url"
+                              }
                     ],
                     "type": "folder"
                         },
@@ -258,10 +278,20 @@
                             "name": "\ud83d\udcd2 Map Data",
                           "children": [
                         {
-                            "name": "\ud83c\udf0d EarthOnDemand2",
+                            "name": "\ud83c\udf0d NATMO",
                             "url": "https://earthondemand.astraea.earth",
                             "type": "url"
                         }
+                              {
+                            "name": "\ud83c\udf0d SURVEY OF INDIA",
+                            "url": "https://earthondemand.astraea.earth",
+                            "type": "url"
+                              }
+                              {
+                            "name": "\ud83c\udf0d VEDAS MAPS",
+                            "url": "https://earthondemand.astraea.earth",
+                            "type": "url"
+                              }
                     ],
                     "type": "folder"
                         }
