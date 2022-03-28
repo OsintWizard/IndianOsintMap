@@ -4,6 +4,51 @@
         {
             "name": "Companies \ud83c\udfec",
             "children": [
+                 {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Master data",
+                    "url": "https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Index of charges",
+                    "url": "https://www.mca.gov.in/mcafoportal/showIndexOfCharges.do",
+                    "type": "url"
+                },
+                 {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Signatory Details",
+                    "url": "https://www.mca.gov.in/mcafoportal/viewSignatoryDetails.do",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Director Master Data",
+                    "url": "https://www.mca.gov.in/mcafoportal/viewDirectorMasterData.do",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Limited Lialibity Partnership Name",
+                    "url": "https://www.mca.gov.in/mcafoportal/showCheckLLPName.do",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Find Limited Liability Partnership Name",
+                    "url": "https://www.mca.gov.in/mcafoportal/findLLPIN.do",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Company Name",
+                    "url": "https://www.mca.gov.in/mcafoportal/showCheckCompanyName.do",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Company Identification Number",
+                    "url": "https://www.mca.gov.in/mcafoportal/findCIN.do",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Public Search of Trademarks",
+                    "url": "https://ipindiaonline.gov.in/tmrpublicsearch/frmmain.aspx",
+                    "type": "url"
+                },
                 {
                     "name": "\ud83d\udcd2 Dorking Tip",
                     "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
