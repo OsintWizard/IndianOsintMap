@@ -245,17 +245,23 @@
                     "children": [
                         {
                             "name": "\ud83d\udcd2 Satelitte Data",
-                            "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
+                          "children": [
+                        {
+                            "name": "\ud83c\udf0d EarthOnDemand",
+                            "url": "https://earthondemand.astraea.earth",
                             "type": "url"
+                        }
+                    ],
+                    "type": "folder"
                         },
                         {
                             "name": "\ud83d\udcd2 Map Data",
                             "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
                             "type": "url"
                         }
-                    ],
+                                  ],
                     "type": "folder"
-                },
+                       },
                 {
                     "name": "\ud83c\udf0d 360\u56fe\u7247",
                     "url": "https://images.so.com/",
