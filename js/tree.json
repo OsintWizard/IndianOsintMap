@@ -240,8 +240,7 @@
         {
             "name": "Geolocation / Maps \ud83d\uddfa",
             "children": [
-                            # edit starts
-                            {
+                           {
                                 "name": "\ud83d\udcd2 Edit 1",
                                 "children": [
                                                 {
@@ -263,88 +262,7 @@
                                             ],
                                  "type": "folder"
                             },
-                            # edits ends                              
-                            # Original start 
-                                                            {
-                                                                "name": "\ud83c\udf0d 360\u56fe\u7247",
-                                                                "url": "https://images.so.com/",
-                                                                "type": "url"
-                                                            },
-                                                            {
-                                                                "name": "\ud83c\udf0d Baidu Maps",
-                                                                "url": "https://map.baidu.com",
-                                                                "type": "url"
-                                                            },
-                                                            {
-                                                                "name": "\ud83c\udf0d\ud83d\udce6 Google Earth",
-                                                                "url": "https://www.google.com/earth/versions/",
-                                                                "type": "url"
-                                                            },
-                                                            {
-                                                                "name": "\ud83c\udf0d InstaHunt",
-                                                                "url": "https://instahunt.co",
-                                                                "type": "url"
-                                                            },
-                                                            {
-                                                                "name": "\ud83c\udf0d Overpass Turbo",
-                                                                "url": "https://overpass-turbo.eu",
-                                                                "type": "url"
-                                                            },
-                                                            {
-                                                                "name": "\ud83c\udf0d Rutmap",
-                                                                "url": "https://www.rutmap.com/",
-                                                                "type": "url"
-                                                            },
-                                                            {
-                                                                "name": "Satellites",
-                                                                "children": [
-                                                                                {
-                                                                                    "name": "\ud83c\udf0d EarthOnDemand",
-                                                                                    "url": "https://earthondemand.astraea.earth",
-                                                                                    "type": "url"
-                                                                                }
-                                                                            ],
-                                                                "type": "folder"
-                                                            },
-                                                            {
-                                                                "name": "\ud83c\udf0d Sogou",
-                                                                "url": "https://pic.sogou.com",
-                                                                "type": "url"
-                                                            },
-                                                            {
-                                                                "name": "Street View",
-                                                                "children": [
-                                                                                {
-                                                                                    "name": "\ud83c\udf0d Infrared Street View",
-                                                                                    "url": "https://isv.intofuture.org/maps",
-                                                                                    "type": "url"
-                                                                                }
-                                                                            ],
-                                                                "type": "folder"
-                                                            },
-                                                            {
-                                                                "name": "Tips",
-                                                                "children": [
-                                                                                {
-                                                                                    "name": "\ud83d\udcd2 Geolocation with Mountains",
-                                                                                    "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
-                                                                                    "type": "url"
-                                                                                },
-                                                                                {
-                                                                                    "name": "\ud83d\udcd2 Intersections on Google Maps",
-                                                                                    "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
-                                                                                    "type": "url"
-                                                                                }
-                                                                            ],
-                                                                "type": "folder"
-                                                            },
-                                                            {
-                                                                "name": "\ud83c\udf0d\ud83d\udcd2 Worldwide OSINT Tools Map",
-                                                                "url": "https://cipher387.github.io/osintmap/",
-                                                                "type": "url"
-                                                            }
-                                                            # original ends
-                        ],
+                          ],
             "type": "folder"
         },
         {
