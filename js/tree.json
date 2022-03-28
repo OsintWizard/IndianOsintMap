@@ -238,7 +238,51 @@
             "type": "folder"
         },
         {
-            "name": "Geolocation / Maps \ud83d\uddfa",
+            "name": "Indian Satelitte Data / Maps \ud83c\uddee\ud83c\uddf3",
+            "children": [
+                {
+                    "name": "\ud83c\udf0d 360\u56fe\u7247",
+                    "url": "https://images.so.com/",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d Baidu Maps",
+                    "url": "https://map.baidu.com",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d\ud83d\udce6 Google Earth",
+                    "url": "https://www.google.com/earth/versions/",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d InstaHunt",
+                    "url": "https://instahunt.co",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d Overpass Turbo",
+                    "url": "https://overpass-turbo.eu",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d Rutmap",
+                    "url": "https://www.rutmap.com/",
+                    "type": "url"
+                },
+                {
+                    "name": "Satellites",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d EarthOnDemand",
+                            "url": "https://earthondemand.astraea.earth",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+               {
+            "name": "Global Geolocation / Maps \ud83d\uddfa",
             "children": [
                 {
                     "name": "\ud83c\udf0d 360\u56fe\u7247",
