@@ -271,6 +271,22 @@
                     "type": "url"
                 },
                 {
+                    "name": "Indian Geolocation / Maps \ud83c\uddee\ud83c\uddf3",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Geolocation with Mountains",
+                            "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udcd2 Intersections on Google Maps",
+                            "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
                     "name": "Satellites",
                     "children": [
                         {
@@ -313,22 +329,7 @@
                     ],
                     "type": "folder"
                 },
-                {
-                    "name": "Indian Geolocation / Maps \ud83c\uddee\ud83c\uddf3",
-                    "children": [
-                        {
-                            "name": "\ud83d\udcd2 Geolocation with Mountains",
-                            "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
-                            "type": "url"
-                        },
-                        {
-                            "name": "\ud83d\udcd2 Intersections on Google Maps",
-                            "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
+                
                 {
                     "name": "\ud83c\udf0d\ud83d\udcd2 Worldwide OSINT Tools Map",
                     "url": "https://cipher387.github.io/osintmap/",
