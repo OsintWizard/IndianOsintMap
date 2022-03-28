@@ -281,8 +281,8 @@
                     ],
                     "type": "folder"
                 },
-               {
-            "name": "Global Geolocation / Maps \ud83d\uddfa",
+               { 
+                   "name": "Global Geolocation / Maps \ud83d\uddfa",
             "children": [
                 {
                     "name": "\ud83c\udf0d 360\u56fe\u7247",
