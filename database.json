@@ -191,14 +191,15 @@
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf"
         },
             "Global Geolocation / Maps 🗺": {
-            "Tips": {
+              "Indian Geolocation / Maps 🇮🇳": {
                 "📒 Intersections on Google Maps": "https://twitter.com/SEINT_pl/status/1493484660902576128",
                 "📒 Geolocation with Mountains": "https://www.youtube.com/watch?v=vNu2X7aCMkU"
-            },
-             "Indian Geolocation / Maps 🇮🇳": {
+                                               },
+                "Tips": {
                 "📒 Intersections on Google Maps": "https://twitter.com/SEINT_pl/status/1493484660902576128",
                 "📒 Geolocation with Mountains": "https://www.youtube.com/watch?v=vNu2X7aCMkU"
-            },
+                        },
+           
             "🌍📦 Google Earth": "https://www.google.com/earth/versions/",
             "🌍 InstaHunt": "https://instahunt.co",
             "Satellites": {
