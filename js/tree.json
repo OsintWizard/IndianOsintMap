@@ -246,11 +246,11 @@
                         {
                             "name": "\ud83d\udcd2 Satelitte Data",
                           "children": [
-                        {
+                                    {
                             "name": "\ud83c\udf0d VEDAS",
                             "url": "https://earthondemand.astraea.earth",
                             "type": "url"
-                        }
+                                   }
                               {
                             "name": "\ud83c\udf0d MOSDAC",
                             "url": "https://earthondemand.astraea.earth",
@@ -276,12 +276,12 @@
                         },
                         {
                             "name": "\ud83d\udcd2 Map Data",
-                          "children": [
-                        {
+                            "children": [
+                            {
                             "name": "\ud83c\udf0d NATMO",
                             "url": "https://earthondemand.astraea.earth",
                             "type": "url"
-                        }
+                             }
                               {
                             "name": "\ud83c\udf0d SURVEY OF INDIA",
                             "url": "https://earthondemand.astraea.earth",
@@ -292,7 +292,7 @@
                             "url": "https://earthondemand.astraea.earth",
                             "type": "url"
                               }
-                    ],
+                             ],
                     "type": "folder"
                         }
                                   ],
