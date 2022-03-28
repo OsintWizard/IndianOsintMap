@@ -1,324 +1,350 @@
 {
-    "name": "OSINT 1Map",
+    "name": "INDIAN OSINTFRAMEWORK",
     "children": [
         {
             "name": "Companies \ud83c\udfec",
             "children": [
-                 {
-                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Master data",
-                    "url": "https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Index of charges",
-                    "url": "https://www.mca.gov.in/mcafoportal/showIndexOfCharges.do",
-                    "type": "url"
-                },
-                 {
-                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Signatory Details",
-                    "url": "https://www.mca.gov.in/mcafoportal/viewSignatoryDetails.do",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Director Master Data",
-                    "url": "https://www.mca.gov.in/mcafoportal/viewDirectorMasterData.do",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Limited Lialibity Partnership Name",
-                    "url": "https://www.mca.gov.in/mcafoportal/showCheckLLPName.do",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Find Limited Liability Partnership Name",
-                    "url": "https://www.mca.gov.in/mcafoportal/findLLPIN.do",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Company Name",
-                    "url": "https://www.mca.gov.in/mcafoportal/showCheckCompanyName.do",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Company Identification Number",
-                    "url": "https://www.mca.gov.in/mcafoportal/findCIN.do",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Public Search of Trademarks",
-                    "url": "https://ipindiaonline.gov.in/tmrpublicsearch/frmmain.aspx",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83d\udcd2 Dorking Tip",
-                    "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d OpenCoorporates",
-                    "url": "https://opencorporates.com",
-                    "type": "url"
-                },
-                {
-                    "name": "Shell Companies",
-                    "children": [
-                        {
-                            "name": "\ud83c\udf0d Offshore Leaks Database",
-                            "url": "https://offshoreleaks.icij.org",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                }
-            ],
+                                {
+                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Master data",
+                                    "url": "https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Index of charges",
+                                    "url": "https://www.mca.gov.in/mcafoportal/showIndexOfCharges.do",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Signatory Details",
+                                    "url": "https://www.mca.gov.in/mcafoportal/viewSignatoryDetails.do",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Director Master Data",
+                                    "url": "https://www.mca.gov.in/mcafoportal/viewDirectorMasterData.do",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Limited Lialibity Partnership Name",
+                                    "url": "https://www.mca.gov.in/mcafoportal/showCheckLLPName.do",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Find Limited Liability Partnership Name",
+                                    "url": "https://www.mca.gov.in/mcafoportal/findLLPIN.do",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Company Name",
+                                    "url": "https://www.mca.gov.in/mcafoportal/showCheckCompanyName.do",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Company Identification Number",
+                                    "url": "https://www.mca.gov.in/mcafoportal/findCIN.do",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Public Search of Trademarks",
+                                    "url": "https://ipindiaonline.gov.in/tmrpublicsearch/frmmain.aspx",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83d\udcd2 Dorking Tip",
+                                    "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\udf0d OpenCoorporates",
+                                    "url": "https://opencorporates.com",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "Shell Companies",
+                                    "children": [
+                                                    {
+                                                        "name": "\ud83c\udf0d Offshore Leaks Database",
+                                                        "url": "https://offshoreleaks.icij.org",
+                                                        "type": "url"
+                                                    }
+                                                ],
+                                    "type": "folder"
+                                }
+                        ],
             "type": "folder"
         },
         {
             "name": "Cryptocurrencies \ud83d\udcc8",
             "children": [
-                {
-                    "name": "\ud83c\udf0d BlockExplorer",
-                    "url": "https://blockexplorer.com",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d WalletExplorer",
-                    "url": "https://www.walletexplorer.com",
-                    "type": "url"
-                }
-            ],
+                            {
+                                "name": "\ud83c\udf0d BlockExplorer",
+                                "url": "https://blockexplorer.com",
+                                "type": "url"
+                            },
+                            {
+                                "name": "\ud83c\udf0d WalletExplorer",
+                                "url": "https://www.walletexplorer.com",
+                                "type": "url"
+                            }
+                        ],
             "type": "folder"
         },
         {
             "name": "Data Lookup \ud83d\udd0d",
             "children": [
-                {
-                    "name": "\ud83d\udcb5\ud83c\udf0d Lampyre.io",
-                    "url": "https://lampyre.io",
-                    "type": "url"
-                },
-                {
-                    "name": "Leaked Database",
-                    "children": [
-                        {
-                            "name": "\ud83c\udf0d\ud83e\ude99 DeHashed",
-                            "url": "https://www.dehashed.com",
-                            "type": "url"
-                        },
-                        {
-                            "name": "\ud83c\udf0d HaveIBeenPwned",
-                            "url": "https://haveibeenpwned.com",
-                            "type": "url"
-                        },
-                        {
-                            "name": "Showing content",
-                            "children": [
-                                {
-                                    "name": "\ud83c\udf0d\ud83e\ude99 _IntelligenceX",
-                                    "url": "https://intelx.io",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83d\udcb5\ud83c\udf0d Leak-Lookup",
-                                    "url": "https://leak-lookup.com",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        }
-                    ],
-                    "type": "folder"
-                }
-            ],
+                            {
+                                "name": "\ud83d\udcb5\ud83c\udf0d Lampyre.io",
+                                "url": "https://lampyre.io",
+                                "type": "url"
+                            },
+                            {
+                                "name": "Leaked Database",
+                                "children": [
+                                                {
+                                                    "name": "\ud83c\udf0d\ud83e\ude99 DeHashed",
+                                                    "url": "https://www.dehashed.com",
+                                                    "type": "url"
+                                                },
+                                                {
+                                                    "name": "\ud83c\udf0d HaveIBeenPwned",
+                                                    "url": "https://haveibeenpwned.com",
+                                                    "type": "url"
+                                                },
+                                                {
+                                                    "name": "Showing content",
+                                                    "children": [
+                                                        {
+                                                            "name": "\ud83c\udf0d\ud83e\ude99 _IntelligenceX",
+                                                            "url": "https://intelx.io",
+                                                            "type": "url"
+                                                        },
+                                                        {
+                                                            "name": "\ud83d\udcb5\ud83c\udf0d Leak-Lookup",
+                                                            "url": "https://leak-lookup.com",
+                                                            "type": "url"
+                                                        }
+                                                    ],
+                                                    "type": "folder"
+                                                }
+                                            ],
+                                "type": "folder"
+                            }
+                       ],
             "type": "folder"
         },
         {
             "name": "Domains \ud83d\udcf6",
             "children": [
-                {
-                    "name": "\ud83d\udcd2 Attack Surface",
-                    "url": "https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf",
-                    "type": "url"
-                },
-                {
-                    "name": "Certificates",
-                    "children": [
-                        {
-                            "name": "\ud83c\udf0d crt.sh",
-                            "url": "https://crt.sh/?",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "DNS",
-                    "children": [
-                        {
-                            "name": "\ud83c\udf0d DNSHistory",
-                            "url": "http://dnshistory.org",
-                            "type": "url"
-                        },
-                        {
-                            "name": "\ud83c\udf0d SecurityTrails",
-                            "url": "https://securitytrails.com",
-                            "type": "url"
-                        },
-                        {
-                            "name": "\ud83c\udf0d Spyse",
-                            "url": "https://spyse.com",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "\ud83c\udf0d Hunter",
-                    "url": "https://hunter.io",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d ScamSearch",
-                    "url": "https://scamsearch.io",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d\ud83e\ude99 Shodan",
-                    "url": "https://www.shodan.io",
-                    "type": "url"
-                },
-                {
-                    "name": "Subdomains",
-                    "children": [
-                        {
-                            "name": "\ud83d\udce6 SubFinder",
-                            "url": "https://github.com/projectdiscovery/subfinder",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                }
-            ],
+                            {
+                                "name": "\ud83d\udcd2 Attack Surface",
+                                "url": "https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf",
+                                "type": "url"
+                            },
+                            {
+                                "name": "Certificates",
+                                "children": [
+                                               {
+                                                 "name": "\ud83c\udf0d crt.sh",
+                                                  "url": "https://crt.sh/?",
+                                                   "type": "url"
+                                                }
+                                             ],
+                                "type": "folder"
+                            },
+                            {
+                                "name": "DNS",
+                                "children": [
+                                                {
+                                                    "name": "\ud83c\udf0d DNSHistory",
+                                                    "url": "http://dnshistory.org",
+                                                    "type": "url"
+                                                },
+                                                {
+                                                    "name": "\ud83c\udf0d SecurityTrails",
+                                                    "url": "https://securitytrails.com",
+                                                    "type": "url"
+                                                },
+                                                {
+                                                    "name": "\ud83c\udf0d Spyse",
+                                                    "url": "https://spyse.com",
+                                                    "type": "url"
+                                                }
+                                            ],
+                                "type": "folder"
+                            },
+                            {
+                                "name": "\ud83c\udf0d Hunter",
+                                "url": "https://hunter.io",
+                                "type": "url"
+                            },
+                            {
+                                "name": "\ud83c\udf0d ScamSearch",
+                                "url": "https://scamsearch.io",
+                                "type": "url"
+                            },
+                            {
+                                "name": "\ud83c\udf0d\ud83e\ude99 Shodan",
+                                "url": "https://www.shodan.io",
+                                "type": "url"
+                            },
+                            {
+                                "name": "Subdomains",
+                                "children": [
+                                                {
+                                                    "name": "\ud83d\udce6 SubFinder",
+                                                    "url": "https://github.com/projectdiscovery/subfinder",
+                                                    "type": "url"
+                                                }
+                                            ],
+                                "type": "folder"
+                            }
+                        ],
             "type": "folder"
         },
         {
             "name": "Email Addresses \ud83d\udcec",
             "children": [
-                {
-                    "name": "\ud83d\udcd2 Attack Surface",
-                    "url": "https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d epieos",
-                    "url": "https://tools.epieos.com/",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83d\udce6 GHunt",
-                    "url": "https://github.com/mxrch/GHunt",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83d\udce6 holehe",
-                    "url": "https://github.com/megadose/holehe",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83d\udce6 MailCat",
-                    "url": "https://github.com/sharsil/mailcat",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d Verify-Email",
-                    "url": "https://verify-email.org",
-                    "type": "url"
-                }
-            ],
+                            {
+                                "name": "\ud83d\udcd2 Attack Surface",
+                                "url": "https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf",
+                                "type": "url"
+                            },
+                            {
+                                "name": "\ud83c\udf0d epieos",
+                                "url": "https://tools.epieos.com/",
+                                "type": "url"
+                            },
+                            {
+                                "name": "\ud83d\udce6 GHunt",
+                                "url": "https://github.com/mxrch/GHunt",
+                                "type": "url"
+                            },
+                            {
+                                "name": "\ud83d\udce6 holehe",
+                                "url": "https://github.com/megadose/holehe",
+                                "type": "url"
+                            },
+                            {
+                                "name": "\ud83d\udce6 MailCat",
+                                "url": "https://github.com/sharsil/mailcat",
+                                "type": "url"
+                            },
+                            {
+                                "name": "\ud83c\udf0d Verify-Email",
+                                "url": "https://verify-email.org",
+                                "type": "url"
+                            }
+                        ],
             "type": "folder"
         },
         {
             "name": "Geolocation / Maps \ud83d\uddfa",
             "children": [
-                {
-                    "name": "\ud83c\udf0d 360\u56fe\u7247",
-                    "url": "https://images.so.com/",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d Baidu Maps",
-                    "url": "https://map.baidu.com",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d\ud83d\udce6 Google Earth",
-                    "url": "https://www.google.com/earth/versions/",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d InstaHunt",
-                    "url": "https://instahunt.co",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d Overpass Turbo",
-                    "url": "https://overpass-turbo.eu",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d Rutmap",
-                    "url": "https://www.rutmap.com/",
-                    "type": "url"
-                },
-                {
-                    "name": "Satellites",
-                    "children": [
-                        {
-                            "name": "\ud83c\udf0d EarthOnDemand",
-                            "url": "https://earthondemand.astraea.earth",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "\ud83c\udf0d Sogou",
-                    "url": "https://pic.sogou.com",
-                    "type": "url"
-                },
-                {
-                    "name": "Street View",
-                    "children": [
-                        {
-                            "name": "\ud83c\udf0d Infrared Street View",
-                            "url": "https://isv.intofuture.org/maps",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "Tips",
-                    "children": [
-                        {
-                            "name": "\ud83d\udcd2 Geolocation with Mountains",
-                            "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
-                            "type": "url"
-                        },
-                        {
-                            "name": "\ud83d\udcd2 Intersections on Google Maps",
-                            "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "\ud83c\udf0d\ud83d\udcd2 Worldwide OSINT Tools Map",
-                    "url": "https://cipher387.github.io/osintmap/",
-                    "type": "url"
-                }
-            ],
+                            # edit starts
+                            {
+                                "name": "\ud83d\udcd2 Edit 1",
+                                "children": [
+                                                {
+                                                    "name": "\ud83c\udf0d EarthOnDemand",
+                                                    "url": "https://earthondemand.astraea.earth",
+                                                    "type": "url"
+                                                }
+                                            ],
+                                "type": "folder"
+                            },
+                            {
+                                "name": "\ud83c\udf0d Edit 2",
+                                "children": [
+                                                {
+                                                    "name": "\ud83c\udf0d EarthOnDemand",
+                                                    "url": "https://earthondemand.astraea.earth",
+                                                    "type": "url"
+                                                }
+                                            ],
+                                 "type": "folder"
+                            },
+                            # edits ends                              
+                            # Original start 
+                                                            {
+                                                                "name": "\ud83c\udf0d 360\u56fe\u7247",
+                                                                "url": "https://images.so.com/",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d Baidu Maps",
+                                                                "url": "https://map.baidu.com",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d\ud83d\udce6 Google Earth",
+                                                                "url": "https://www.google.com/earth/versions/",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d InstaHunt",
+                                                                "url": "https://instahunt.co",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d Overpass Turbo",
+                                                                "url": "https://overpass-turbo.eu",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d Rutmap",
+                                                                "url": "https://www.rutmap.com/",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Satellites",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d EarthOnDemand",
+                                                                                    "url": "https://earthondemand.astraea.earth",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d Sogou",
+                                                                "url": "https://pic.sogou.com",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Street View",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Infrared Street View",
+                                                                                    "url": "https://isv.intofuture.org/maps",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Tips",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Geolocation with Mountains",
+                                                                                    "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Intersections on Google Maps",
+                                                                                    "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d\ud83d\udcd2 Worldwide OSINT Tools Map",
+                                                                "url": "https://cipher387.github.io/osintmap/",
+                                                                "type": "url"
+                                                            }
+                                                            # original ends
+                        ],
             "type": "folder"
         },
         {
