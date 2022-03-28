@@ -241,9 +241,15 @@
             "name": "Geolocation / Maps \ud83d\uddfa",
             "children": [
                             {
-                                "name": "\ud83d\udce6 Indian Geolocation and Maps",
-                                "url": "https://github.com/sharsil/mailcat",
-                                "type": "url"
+                                "name": "\ud83c\uddee\ud83c\uddf3 Indian Geolocation and Maps",
+                                "children": [
+                                                {
+                                                    "name": "\ud83c\uddee\ud83c\uddf3 Satelitte Visualisation of India",
+                                                    "url": "https://vedas.sac.gov.in/vstatic/vedas_visualization/index.html",
+                                                    "type": "url"
+                                                }
+                                            ],
+                                "type": "folder"
                             },
                             {
                                 "name": "\ud83c\udf0d Global Geolocation and Maps",
