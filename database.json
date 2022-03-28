@@ -265,9 +265,11 @@
             }
         },
         "Companies 🏬": {
-            "📒 Dorking Tip": "https://twitter.com/OSINTcda/status/1493808415277150208",
             "🇮🇳 🌍 View Company Master Data": "https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do",
             "🇮🇳 🌍 View Index of charges": "https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do",
+            "🇮🇳 🌍 View Company Signatory Details": "https://www.mca.gov.in/mcafoportal/viewSignatoryDetails.do",
+            "🇮🇳 🌍 View Company Director Master Data": "https://www.mca.gov.in/mcafoportal/viewDirectorMasterData.do",
+            "📒 Dorking Tip": "https://twitter.com/OSINTcda/status/1493808415277150208",
             "🌍 OpenCoorporates": "https://opencorporates.com",
             "Shell Companies": {
                 "🌍 Offshore Leaks Database": "https://offshoreleaks.icij.org"
