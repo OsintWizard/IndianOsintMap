@@ -1,8 +1,8 @@
 /*Some part of this code is coming from the following code under MIT license:
 https://github.com/lockfale/OSINT-Framework/blob/master/public/css/arf.css */
 body {
-  background: rgb(2,0,36);
-  background: linear-gradient(256deg, rgba(2,0,36,1) 0%, rgba(152,104,168,0.7693277994791666) 35%, rgba(0,212,255,1) 100%);
+   background: rgb(34,193,195);
+   background: linear-gradient(343deg, rgba(34,193,195,1) 0%, rgba(239,244,254,1) 75%); 
   font-size: 14px;
   font-family: 'Roboto', sans-serif;
 }
