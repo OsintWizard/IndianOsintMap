@@ -1,0 +1,1936 @@
+{
+    "name": "OSINT FRAMEWORK",
+    "children": [
+                    {
+                        "name": "INDIAN OSINT FRAMEWORK",
+                        "children": [
+                                        {
+                                            "name": "Indian Financial Reports and Data \ud83c\udff7",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83d\udcd2 Database on Indian Economy",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 FlightRadar24",
+                                                                                    "url": " ",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udce6 Economic Data reports",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 Daily Economic reports of Reserve bank of India",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Electronic Payment Systems - Representative Data",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/Pr_DataRelease.aspx?SectionID=368&DateFilter=YearMonth",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Liquidity Adjustment Facility Result",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_LAF_Search.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Money Market Operations",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_LAF_Search.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Reference Rate",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_DisplayReferenceRate.aspx",
+                                                                                                        "type": "url"
+                                                                                                    }     
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 Weekly Economic reports of Reserve bank of India",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 National Summary Data Page",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_NSDPDisplay.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Weekly Statistical Supplement - Extract",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_ViewWSSExtract.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Foreign Exchange Turnover Data",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_ForeignExchangeDisplay.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Data on Reserve Money",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_ForeignExchangeDisplay.aspx",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 Fortnightly Economic reports of Reserve bank of India",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Data on Money Supply",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/Data_MSupply.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Scheduled Bank's Statement of Position in India",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_StatisticsDisplay.aspx",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 Monthly Economic Reports of Reserve bank of India",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 External Commercial Borrowings",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/ECBView.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Payment System Indicators",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/PSIUserView.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Pictorial Representation of Trends in Payment System",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/TrendsPSIuserview.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Bankwise Volumes in NEFT/RTGS/Mobile Transactions",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/NEFTView.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Bank-wise ATM/POS/Card Statistics",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/ATMView.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Data on Overseas Investment",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/Data_Overseas_Investment.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 India's International Trade in Services",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/Data_Overseas_Investment.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 RBI Bulletin - Current Statistics",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Interest Rate Data",
+                                                                                                        "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                    
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 Bi-Monthly Economic Reports of Reserve bank of India",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Survey of Professional Forecasters",
+                                                                                                        "url": "https://www.rbi.org.in/scripts/BimonthlyPublications.aspx?head=Survey%20of%20Professional%20Forecasters%20-%20Bi-monthly",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Consumer Confidence Survey",
+                                                                                                        "url": "https://www.rbi.org.in/scripts/BimonthlyPublications.aspx?head=Consumer%20Confidence%20Survey%20-%20Bi-monthly",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Inflation Expectations Survey of Households",
+                                                                                                        "url": "https://www.rbi.org.in/scripts/BimonthlyPublications.aspx?head=Inflation%20Expectations%20Survey%20of%20Households%20-%20Bi-monthlyy",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 Quarterly Economic Reports of Reserve bank of India",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Will be updated soon",
+                                                                                                        "url": " ",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 Half Yearly Economic Reports of Reserve bank of India",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Will be updated soon",
+                                                                                                        "url": " ",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 Annual Economic Reports of Reserve bank of India",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Will be updated soon",
+                                                                                                        "url": " ",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 Occasionally published Economic Reports of Reserve bank of India",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d\ud83e\ude99 Will be updated soon",
+                                                                                                        "url": " ",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                }
+                                                                        ],
+                                                                "type": "folder"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Companies \ud83c\udfec",
+                                            "children": [
+                                                                {
+                                                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Master data",
+                                                                    "url": "https://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Index of charges",
+                                                                    "url": "https://www.mca.gov.in/mcafoportal/showIndexOfCharges.do",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Signatory Details",
+                                                                    "url": "https://www.mca.gov.in/mcafoportal/viewSignatoryDetails.do",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d View Company Director Master Data",
+                                                                    "url": "https://www.mca.gov.in/mcafoportal/viewDirectorMasterData.do",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Limited Lialibity Partnership Name",
+                                                                    "url": "https://www.mca.gov.in/mcafoportal/showCheckLLPName.do",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Find Limited Liability Partnership Name",
+                                                                    "url": "https://www.mca.gov.in/mcafoportal/findLLPIN.do",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Company Name",
+                                                                    "url": "https://www.mca.gov.in/mcafoportal/showCheckCompanyName.do",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Check Company Identification Number",
+                                                                    "url": "https://www.mca.gov.in/mcafoportal/findCIN.do",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83c\uddee\ud83c\uddf3\ud83c\udf0d Public Search of Trademarks",
+                                                                    "url": "https://ipindiaonline.gov.in/tmrpublicsearch/frmmain.aspx",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83d\udcd2 Dorking Tip",
+                                                                    "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "Shell Companies",
+                                                                    "children": [
+                                                                                    {
+                                                                                        "name": "\ud83c\udf0d Offshore Leaks Database",
+                                                                                        "url": "https://offshoreleaks.icij.org",
+                                                                                        "type": "url"
+                                                                                    }
+                                                                                ],
+                                                                    "type": "folder"
+                                                                }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Geolocation / Maps \ud83d\uddfa",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83c\uddee\ud83c\uddf3 Indian Satellite Data ",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\uddee\ud83c\uddf3 VEDAS",
+                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Satellite Visualisation of India",
+                                                                                                            "url": "https://vedas.sac.gov.in/vstatic/vedas_visualization/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Vegetation and crop Monitoring Application ",
+                                                                                                            "url": "https://vedas.sac.gov.in/vegetation-monitoring/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Desertification Monitoring Applications ",
+                                                                                                            "url": "https://vedas.sac.gov.in/desertification/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Data on Renewable Energy ",
+                                                                                                            "url": "https://vedas.sac.gov.in/renewable-energy/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Air Quality Monitoring ",
+                                                                                                            "url": "https://vedas.sac.gov.in/air-quality-monitoring/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Satellite data on Snow Cover ",
+                                                                                                            "url": "https://vedas.sac.gov.in/snow-cover/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Urban Sprawl Information System ",
+                                                                                                            "url": "https://vedas.sac.gov.in/usis/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Hydrological Science and Applications systems ",
+                                                                                                            "url": "https://vedas.sac.gov.in/hydro/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Satellite monitoring systems on Wetlands ",
+                                                                                                            "url": "https://vedas.sac.gov.in/wetlands/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Coastal Environment Mangement System",
+                                                                                                            "url": "https://vedas.sac.gov.in/coastal-env/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Forest Biomass Monitoring System",
+                                                                                                            "url": "https://vedas.sac.gov.in/forest/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Vegetation condition Dashboard",
+                                                                                                            "url": "https://vedas.sac.gov.in/vci_dashboard/static/index.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Geo spatial Energy Maps",
+                                                                                                            "url": "https://vedas.sac.gov.in/energymap/",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Glacier Monitoring Application",
+                                                                                                            "url": "https://vedas.sac.gov.in/vedas_special/vedas_glacier.html",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Wave power monitoring application",
+                                                                                                            "url": "https://vedas.sac.gov.in/vedas_web/vedas_viewport_risat.jsp",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Sea Salinity Monitoring Application",
+                                                                                                            "url": "https://vedas.sac.gov.in/vstatic_1/SSS/",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Coral Bleaching Monitoring Application",
+                                                                                                            "url": "https://vedas.sac.gov.in/vstatic_1/Coral/",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Mars Viewer",
+                                                                                                            "url": "https://vedas.sac.gov.in/vedas_web/vedas_viewport_mars.jsp",
+                                                                                                            "type": "url"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "\ud83c\uddee\ud83c\uddf3 Moon Viewer",
+                                                                                                            "url": "https://vedas.sac.gov.in/vedas_web/vedas_viewport_moon.jsp",
+                                                                                                            "type": "url"
+                                                                                                        }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\uddee\ud83c\uddf3 MOSDAC",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Latest Satelitte view of India",
+                                                                                                        "url": "https://www.mosdac.gov.in/live/index_one.php?url_name=india",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Latest Weather Forecast (updated every 3 hours)",
+                                                                                                        "url": "https://www.mosdac.gov.in/weather/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Latest Heat wave forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/temperature/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Latest Cold wave Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/coldwave/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Latest Heat wave Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/temperature/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Heavy Rainfall Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/heavy-rain/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Latest Monsoon forecast (2021)",
+                                                                                                        "url": "https://www.mosdac.gov.in/monsoon/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Lightining Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/lightning/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Sea State Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/sea-state-forecast",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Solar and Wind Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/energy/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Heavy Rainfall Alerts over India & Surrounding Regions",
+                                                                                                        "url": "https://www.mosdac.gov.in/energy/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Heavy Rainfall Alerts over India & Surrounding Regions",
+                                                                                                        "url": "https://www.mosdac.gov.in/heavyrain/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Cloudburst Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/cloudburst/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Identification and Mapping of Intense rain over India",
+                                                                                                        "url": "https://www.mosdac.gov.in/cloudburst/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Automatic weather Station Data of India",
+                                                                                                        "url": "https://www.mosdac.gov.in/aws/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Statewise Alerts and Warnings",
+                                                                                                        "url": "https://www.mosdac.gov.in/afs/state",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Alerts and Forewarning for select south Asian Countries",
+                                                                                                        "url": "https://www.mosdac.gov.in/afs/country",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Live Solar Energy Monitoring Systems",
+                                                                                                        "url": "https://www.mosdac.gov.in/live/index_one.php?url_name=urja",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Live Hydro Estimator Rainfall",
+                                                                                                        "url": "https://www.mosdac.gov.in/live/index_one.php?url_name=varsha",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Live Air Quality Monitoring System",
+                                                                                                        "url": "https://www.mosdac.gov.in/live/index_one.php?url_name=vayu",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Latest Soil Wetness Index",
+                                                                                                        "url": "https://www.mosdac.gov.in/swi/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Monitoring Deep depression systems over Bay of Bengal",
+                                                                                                        "url": "https://www.mosdac.gov.in/scorpio/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Oil Spill Monitoring",
+                                                                                                        "url": "https://www.mosdac.gov.in/oilspill/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Ocean Subsurface Aanomaly Monitoring System",
+                                                                                                        "url": "https://www.mosdac.gov.in/live/index_one.php?url_name=ocean",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 RIP cuurent forecast for all india Beaches",
+                                                                                                        "url": "https://www.mosdac.gov.in/rip/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Ocean state Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/sci/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Cyclonic and Anti Cyclonic Eddy Current Monitoring Systems",
+                                                                                                        "url": "https://www.mosdac.gov.in/eddy/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Satelite catalog for all Indian Satelites (requires registration for Data downloads)",
+                                                                                                        "url": "https://www.mosdac.gov.in/satellite-catalog",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Live satelite Feed",
+                                                                                                        "url": "https://mosdac.gov.in/gallery/index.html",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Live Weather Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/gallery-forecast",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Live Ocean Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/gallery-ocean",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Latest Doppler Weather Radar Forecast",
+                                                                                                        "url": "https://www.mosdac.gov.in/gallery-dwr",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\uddee\ud83c\uddf3 Latest global ocean Surface Data",
+                                                                                                        "url": "https://www.mosdac.gov.in/HeavyRain_Insat3D/",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\uddee\ud83c\uddf3 NRSC",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83e\udde9 NRSC1",
+                                                                                                        "url": "https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83e\udde9 NRSC1",
+                                                                                                        "url": "https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\uddee\ud83c\uddf3 BHUVAN",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83e\udde9 bhuvan 1",
+                                                                                                        "url": "https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83e\udde9 bhuvan 1",
+                                                                                                        "url": "https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\uddee\ud83c\uddf3 BHOONIDHI",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83e\udde9 BHOONIDHI 1",
+                                                                                                        "url": "https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                }
+                                                                            ],                                           
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\uddee\ud83c\uddf3 Indian Maps and Atlas",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\uddee\ud83c\uddf3 Main Map Search",
+                                                                                    "url": "https://geoportal.natmo.gov.in/search",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\uddee\ud83c\uddf3 Administrative and political Maps",
+                                                                                    "url": "https://geoportal.natmo.gov.in/search/field_themes/administrative-and-political-2127",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            }, 
+                                                            {
+                                                                "name": "\ud83c\udf0d Global Geolocation and Maps",
+                                                                "url": "https://verify-email.org",
+                                                                "type": "url"
+                                                            } 
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "INDIAN LEGAL INFORMATION SYSTEMS",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83c\udf0d Offshore Leaks Database",
+                                                                "url": "https://offshoreleaks.icij.org",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "INDIAN ELECTION DATABASE",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83c\udf0d Offshore Leaks Database",
+                                                                "url": "https://offshoreleaks.icij.org",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "INDIAN OFFICIAL OPENSOURCE DATABASE",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83c\udf0d Offshore Leaks Database",
+                                                                "url": "https://offshoreleaks.icij.org",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "INDIAN CUSTOMS ICEGATE DATABASE",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83c\udf0d Offshore Leaks Database",
+                                                                "url": "https://offshoreleaks.icij.org",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "INDIAN OFFICIAL SERVICE PORTAL",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83c\udf0d Offshore Leaks Database",
+                                                                "url": "https://offshoreleaks.icij.org",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        { 
+                                        "name": "INDIAN MINISTRY OF STATISTICS",
+                                        "children": [
+                                                        {
+                                                            "name": "\ud83c\udf0d Offshore Leaks Database",
+                                                            "url": "https://offshoreleaks.icij.org",
+                                                            "type": "url"
+                                                        }
+                                                    ],
+                                        "type": "folder"
+                                        },
+                                        {
+                                            "name": "TRAI SMS HEADER INFORMATION PORTAL",
+                                            "url": "https://smsheader.trai.gov.in/",
+                                            "type": "url"
+                                        } 
+                                    ],
+                        "type": "folder"
+                    },
+                    {
+                        "name": "GLOBAL OSINT FRAMEWORK",
+                        "children": [
+                                        {
+                                            "name": "Companies \ud83c\udfec",
+                                            "children": [
+                                                                {
+                                                                    "name": "\ud83d\udcd2 Dorking Tip",
+                                                                    "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "\ud83c\udf0d OpenCoorporates",
+                                                                    "url": "https://opencorporates.com",
+                                                                    "type": "url"
+                                                                },
+                                                                {
+                                                                    "name": "Shell Companies",
+                                                                    "children": [
+                                                                                    {
+                                                                                        "name": "\ud83c\udf0d Offshore Leaks Database",
+                                                                                        "url": "https://offshoreleaks.icij.org",
+                                                                                        "type": "url"
+                                                                                    }
+                                                                                ],
+                                                                    "type": "folder"
+                                                                }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Cryptocurrencies \ud83d\udcc8",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83c\udf0d BlockExplorer",
+                                                                "url": "https://blockexplorer.com",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d WalletExplorer",
+                                                                "url": "https://www.walletexplorer.com",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Data Lookup \ud83d\udd0d",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83d\udcb5\ud83c\udf0d Lampyre.io",
+                                                                "url": "https://lampyre.io",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Leaked Database",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 DeHashed",
+                                                                                    "url": "https://www.dehashed.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d HaveIBeenPwned",
+                                                                                    "url": "https://haveibeenpwned.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Showing content",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "\ud83c\udf0d\ud83e\ude99 _IntelligenceX",
+                                                                                            "url": "https://intelx.io",
+                                                                                            "type": "url"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "\ud83d\udcb5\ud83c\udf0d Leak-Lookup",
+                                                                                            "url": "https://leak-lookup.com",
+                                                                                            "type": "url"
+                                                                                        }
+                                                                                    ],
+                                                                                    "type": "folder"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            }
+                                                    ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Domains \ud83d\udcf6",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83d\udcd2 Attack Surface",
+                                                                "url": "https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Certificates",
+                                                                "children": [
+                                                                            {
+                                                                                "name": "\ud83c\udf0d crt.sh",
+                                                                                "url": "https://crt.sh/?",
+                                                                                "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "DNS",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d DNSHistory",
+                                                                                    "url": "http://dnshistory.org",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d SecurityTrails",
+                                                                                    "url": "https://securitytrails.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Spyse",
+                                                                                    "url": "https://spyse.com",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d Hunter",
+                                                                "url": "https://hunter.io",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d ScamSearch",
+                                                                "url": "https://scamsearch.io",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d\ud83e\ude99 Shodan",
+                                                                "url": "https://www.shodan.io",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Subdomains",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 SubFinder",
+                                                                                    "url": "https://github.com/projectdiscovery/subfinder",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Email Addresses \ud83d\udcec",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83d\udcd2 Attack Surface",
+                                                                "url": "https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d epieos",
+                                                                "url": "https://tools.epieos.com/",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udce6 GHunt",
+                                                                "url": "https://github.com/mxrch/GHunt",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udce6 holehe",
+                                                                "url": "https://github.com/megadose/holehe",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udce6 MailCat",
+                                                                "url": "https://github.com/sharsil/mailcat",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d Verify-Email",
+                                                                "url": "https://verify-email.org",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Images \ud83d\uddbc",
+                                            "children": [
+                                                            {
+                                                                "name": "EXIF",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83e\udde9 Exif Viewer Pro",
+                                                                                    "url": "https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2 Image Attack Surface",
+                                                                "url": "https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.pdf",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Logos",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Wipo",
+                                                                                    "url": "https://branddb.wipo.int/branddb/en/",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Reverse Image Search",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Alamy",
+                                                                                    "url": "https://www.alamy.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Attack Surface",
+                                                                                    "url": "https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.pdf",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Baidu (\u767e\u5ea6) Images",
+                                                                                    "url": "https://www.baidu.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Bing Images",
+                                                                                    "url": "https://www.bing.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Face Search",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83d\udcb5\ud83c\udf0d PimEyes",
+                                                                                                        "url": "https://pimeyes.com/en",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83e\udde9 Fake New Debunker",
+                                                                                    "url": "https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Google Images",
+                                                                                    "url": "https://images.google.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 Google Lens",
+                                                                                    "url": "https://lens.google",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Image Identity",
+                                                                                    "url": "https://www.imageidentify.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Image Raider",
+                                                                                    "url": "https://infringement.report/api/raider-reverse-image-search/",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Karma Decay (Reddit)",
+                                                                                    "url": "http://karmadecay.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83e\udde9 RevEye",
+                                                                                    "url": "https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d SauceNAO",
+                                                                                    "url": "https://saucenao.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83e\udde9 Search By Image",
+                                                                                    "url": "https://addons.mozilla.org/fr/firefox/addon/search_by_image/",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Search by terms",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d Imgur Search",
+                                                                                                        "url": "https://imgur.com/search",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d ShutterStock",
+                                                                                    "url": "https://www.shutterstock.com/",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Tineye",
+                                                                                    "url": "https://tineye.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Yandex Images",
+                                                                                    "url": "https://yandex.com/images/",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Tools",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d ImgOps",
+                                                                                    "url": "http://imgops.com/upload",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Photoshop Online",
+                                                                                    "url": "https://www.photopea.com",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                            "type": "folder"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "IP Addresses \ud83d\udd22",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83c\udf0d InfoByIP",
+                                                                "url": "https://www.infobyip.com/",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d InfoSniper",
+                                                                "url": "https://www.infosniper.net",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2 IP Address Attack Surface",
+                                                                "url": "https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "IP Loggers",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\u2757\ufe0f Grabify",
+                                                                                    "url": "https://grabify.link",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\u2757\ufe0f IPLogger",
+                                                                                    "url": "https://iplogger.org",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2 IP Subnet by regions",
+                                                                "url": "https://github.com/ipverse/rir-ip",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Military \ud83e\ude96",
+                                            "children": [
+                                                            {
+                                                                "name": "Air",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Google Military Airbase",
+                                                                                    "url": "https://twitter.com/terryzim/status/1315957946594066433",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2 Ammunitions Wiki",
+                                                                "url": "http://www.cartrology.com",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2 Camopedia",
+                                                                "url": "https://www.camopedia.org/index.php/Main_Page",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2 Historical Tanks Wiki (WoT)",
+                                                                "url": "https://worldoftanks.com/en/tankopedia/",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2 Military and Conflict GIJN Database",
+                                                                "url": "https://docs.google.com/spreadsheets/d/1wiIVKdvn8QSBQ1LGB9kiGrB28SYFblbZ7uM4uKSWFfU/edit#gid=0",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Ships",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Military Ships Tracker",
+                                                                                    "url": "https://www.marinevesseltraffic.com/2013/02/military-ship-track.html",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Names \ud83d\udcc7",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83c\udf0d NAMINT",
+                                                                "url": "https://seintpl.github.io/NAMINT/",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2 Person Attack Surface",
+                                                                "url": "https://github.com/sinwindie/OSINT/blob/master/Person/Person%20OSINT%20Attack%20Surface.pdf",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Resources",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Slavic Names Provenance",
+                                                                                    "url": "https://en.wikipedia.org/wiki/Slavic_name_suffixes",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Phone Numbers \ud83d\udcde",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83d\udce6 Ignorant",
+                                                                "url": "https://github.com/megadose/ignorant",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2 Phones Country Codes",
+                                                                "url": "https://en.wikipedia.org/wiki/List_of_country_calling_codes",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Search engines \ud83e\uddee",
+                                            "children": [
+                                                            {
+                                                                "name": "Dorking",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "DuckDuckGo",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83d\udcd2 goDuck",
+                                                                                                        "url": "https://github.com/d34dfr4m3/goDuck",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Google",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d abhijithb200's Investigator",
+                                                                                                        "url": "https://abhijithb200.github.io/investigator/",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83d\udcd2 Cheatsheet",
+                                                                                                        "url": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d DorkSearch",
+                                                                                                        "url": "https://dorksearch.com",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d faisalahmed's Dorks",
+                                                                                                        "url": "https://dorks.faisalahmed.me/#",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d Google's Dorking form",
+                                                                                                        "url": "https://www.google.com/advanced_search",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Regular Expressions",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d regex101",
+                                                                                                        "url": "https://regex101.com",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Social media \ud83d\udc65",
+                                            "children": [
+                                                            {
+                                                                "name": "Apple",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 Py-iMessage",
+                                                                                    "url": "https://github.com/Rolstenhouse/py-iMessage",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Discord",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Attack Surface",
+                                                                                    "url": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Discord ID",
+                                                                                    "url": "https://discord.id",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Discord Snowflake",
+                                                                                    "url": "https://snowsta.mp",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "File hosting",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 XeuLeDoc",
+                                                                                    "url": "https://github.com/Malfrats/xeuledoc",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "GitHub",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Github Dorks",
+                                                                                    "url": "https://github.com/techgaun/github-dorks",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 ZEN",
+                                                                                    "url": "https://github.com/s0md3v/Zen",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Instagram",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Attack Surface",
+                                                                                    "url": "https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 InstaTrack",
+                                                                                    "url": "https://github.com/Snbig/InstaTrack",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 OSINTGram",
+                                                                                    "url": "https://github.com/Datalux/Osintgram",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 Sterra",
+                                                                                    "url": "https://github.com/novitae/sterraxcyl",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 Toutatis",
+                                                                                    "url": "https://github.com/megadose/toutatis",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 View Private Accounts",
+                                                                                    "url": "https://www.aware-online.com/en/osint-tutorials/view-private-instagram-accounts/",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Linkedin",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Attack Surface",
+                                                                                    "url": "https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Attack%20Surface.pdf",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Linkedin Google Dorks",
+                                                                                    "url": "https://github.com/krlabs/linkedin-dorks",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 Nqntnqnqmb",
+                                                                                    "url": "https://github.com/megadose/nqntnqnqmb",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 Revealin",
+                                                                                    "url": "https://github.com/mxrch/revealin",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Techniques",
+                                                                                    "url": "https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Techniques%20Part%20I%20and%20II.pdf",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udcd2\u2757\ufe0f Password Recovery",
+                                                                "url": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Pinterest",
+                                                                "children": [
+                                                                    {
+                                                                        "name": "\ud83d\udcd2 Attack Surface",
+                                                                        "url": "https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf",
+                                                                        "type": "url"
+                                                                    },
+                                                                    {
+                                                                        "name": "\ud83d\udcd2 Bypass Login Popup",
+                                                                        "url": "https://mobile.twitter.com/ohshint_/status/1459737802296348673",
+                                                                        "type": "url"
+                                                                    }
+                                                                ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Reddit",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Reddective",
+                                                                                    "url": "https://www.redective.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 Snooper",
+                                                                                    "url": "https://github.com/NicholasDollick/Snooper",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Telegram",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Telegram Fundamentals",
+                                                                                    "url": "https://www.cqcore.uk/telegram-fundamentals/",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 Telegram Nearby Map",
+                                                                                    "url": "https://github.com/tejado/telegram-nearby-map",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 Telescan",
+                                                                                    "url": "https://github.com/pielco11/telescan",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Twitch",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Infos on User",
+                                                                                    "url": "https://twitter.com/cyb_detective/status/1489731978081538051",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d JustLog",
+                                                                                    "url": "https://logs.ivr.fi",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Pogu.live",
+                                                                                    "url": "https://pogu.live",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d TwitchDatabase",
+                                                                                    "url": "https://www.twitchdatabase.com/following",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Twitter",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Attack Surface",
+                                                                                    "url": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 SocialBearing",
+                                                                                    "url": "https://socialbearing.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Specific Locations \ud83d\udccd",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d BirdHunt",
+                                                                                                        "url": "https://birdhunt.co",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d TwitterFall",
+                                                                                                        "url": "https://twitterfall.com",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d TweetBeaver",
+                                                                                    "url": "https://tweetbeaver.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Twitter's Dorking Form",
+                                                                                    "url": "https://twitter.com/search-advanced",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Visualization \ud83d\udcca",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d Hoaxy",
+                                                                                                        "url": "https://hoaxy.osome.iu.edu",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d MentionApp",
+                                                                                                        "url": "https://analytics.mentionmapp.com",
+                                                                                                        "type": "url"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "\ud83c\udf0d Twiangulate",
+                                                                                                        "url": "https://twiangulate.com/search/",
+                                                                                                        "type": "url"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Youtube",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Attack Surface",
+                                                                                    "url": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Specific Regions \ud83c\udfde",
+                                            "children": [
+                                                            {
+                                                                "name": "Africa \ud83c\udf1e",
+                                                                "children": [
+                                                                    {
+                                                                        "name": "\ud83c\udf0d Afrinic WhoIS",
+                                                                        "url": "https://www.afrinic.net/whois",
+                                                                        "type": "url"
+                                                                    }
+                                                                ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "America \ud83c\udf0e",
+                                                                "children": [
+                                                                    {
+                                                                        "name": "USA \ud83c\uddfa\ud83c\uddf8",
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "Emails",
+                                                                                "children": [
+                                                                                                {
+                                                                                                    "name": "\ud83c\udf0d ThatsThem",
+                                                                                                    "url": "https://thatsthem.com/reverse-email-lookup",
+                                                                                                    "type": "url"
+                                                                                                }
+                                                                                            ],
+                                                                                "type": "folder"
+                                                                            },
+                                                                            {
+                                                                                "name": "Phones",
+                                                                                "children": [
+                                                                                                {
+                                                                                                    "name": "\ud83c\udf0d FreeCarrierLookup",
+                                                                                                    "url": "https://freecarrierlookup.com",
+                                                                                                    "type": "url"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "\ud83c\udf0d Phone Validator",
+                                                                                                    "url": "https://www.phonevalidator.com",
+                                                                                                    "type": "url"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "\ud83c\udf0d Phonerator",
+                                                                                                    "url": "https://www.martinvigo.com/tools/phonerator/",
+                                                                                                    "type": "url"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "\ud83c\udf0d ThatsThem",
+                                                                                                    "url": "https://thatsthem.com/reverse-phone-lookup",
+                                                                                                    "type": "url"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 USPhoneBook",
+                                                                                                    "url": "https://www.usphonebook.com",
+                                                                                                    "type": "url"
+                                                                                                }
+                                                                                            ],
+                                                                                "type": "folder"
+                                                                            },
+                                                                            {
+                                                                                "name": "Transportation",
+                                                                                "children": [
+                                                                                                    {
+                                                                                                        "name": "Licence plates",
+                                                                                                        "children": [
+                                                                                                                        {
+                                                                                                                            "name": "\ud83c\udf0d InfoTracer",
+                                                                                                                            "url": "https://infotracer.com",
+                                                                                                                            "type": "url"
+                                                                                                                        }
+                                                                                                                    ],
+                                                                                                        "type": "folder"
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name": "Trains",
+                                                                                                        "children": [
+                                                                                                                        {
+                                                                                                                            "name": "\ud83c\udf0d Amtrack Track your Train",
+                                                                                                                            "url": "https://www.amtrak.com/track-your-train.html",
+                                                                                                                            "type": "url"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "name": "\ud83c\udf0d Railroad Casualties Map",
+                                                                                                                            "url": "https://fragis.fra.dot.gov/Trespassers/",
+                                                                                                                            "type": "url"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "name": "\ud83d\udcd2 Railroad Map Depot",
+                                                                                                                            "url": "https://stb.maps.arcgis.com/home/index.html",
+                                                                                                                            "type": "url"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "name": "\ud83c\udf0d Railroad Safety Map",
+                                                                                                                            "url": "https://fragis.fra.dot.gov/GISFRASafety/",
+                                                                                                                            "type": "url"
+                                                                                                                        }
+                                                                                                                    ],
+                                                                                                        "type": "folder"
+                                                                                                    }
+                                                                                            ],
+                                                                                "type": "folder"
+                                                                            }
+                                                                        ],
+                                                                        "type": "folder"
+                                                                    }
+                                                                ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Antarctic \ud83c\udde6\ud83c\uddf6",
+                                                                "children": [],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Asia / Oceania \ud83c\udf0f",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "North Korea \ud83c\uddf0\ud83c\uddf5",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "Map",
+                                                                                                        "children": [
+                                                                                                                        {
+                                                                                                                            "name": "\ud83d\udce6 AccessDPRK Map",
+                                                                                                                            "url": "https://mynorthkorea.blogspot.com/2021/01/accessdprk-2021-map-free-version.html",
+                                                                                                                            "type": "url"
+                                                                                                                        }
+                                                                                                                    ],
+                                                                                                        "type": "folder"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                },
+                                                                                {
+                                                                                    "name": "South Korea \ud83c\uddf0\ud83c\uddf7",
+                                                                                    "children": [
+                                                                                                    {
+                                                                                                        "name": "Map",
+                                                                                                        "children": [
+                                                                                                                        {
+                                                                                                                            "name": "\ud83c\udf0d Kakao Map",
+                                                                                                                            "url": "https://map.kakao.com",
+                                                                                                                            "type": "url"
+                                                                                                                        }
+                                                                                                                    ],
+                                                                                                        "type": "folder"
+                                                                                                    }
+                                                                                                ],
+                                                                                    "type": "folder"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Europe \ud83c\uddea\ud83c\uddfa",
+                                                                "children": [
+                                                                                        {
+                                                                                            "name": "France \ud83c\uddeb\ud83c\uddf7\ud83d\udc13\ud83e\udd56\ud83e\udd50\ud83c\udf77",
+                                                                                            "children": [
+                                                                                                            {
+                                                                                                                "name": "Individuals",
+                                                                                                                "children": [
+                                                                                                                                {
+                                                                                                                                    "name": "\ud83d\udce6 DaProfiler",
+                                                                                                                                    "url": "https://github.com/TheRealDalunacrobate/DaProfiler",
+                                                                                                                                    "type": "url"
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "name": "\ud83c\udf0d PagesBlanches",
+                                                                                                                                    "url": "https://www.pagesjaunes.fr/pagesblanches",
+                                                                                                                                    "type": "url"
+                                                                                                                                }
+                                                                                                                            ],
+                                                                                                                "type": "folder"
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "name": "Transportation",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "name": "\ud83c\udf0d Raildar.fr",
+                                                                                                                        "url": "http://www.raildar.fr/",
+                                                                                                                        "type": "url"
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "type": "folder"
+                                                                                                            }
+                                                                                                        ],
+                                                                                            "type": "folder"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Iceland \ud83c\uddee\ud83c\uddf8",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Map",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "\ud83c\udf0d Iceland street view",
+                                                                                                            "url": "https://ja.is/kort/",
+                                                                                                            "type": "url"
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "type": "folder"
+                                                                                                }
+                                                                                            ],
+                                                                                            "type": "folder"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Russia \ud83c\uddf7\ud83c\uddfa",
+                                                                                            "children": [
+                                                                                                            {
+                                                                                                                "name": "Companies",
+                                                                                                                "children": [
+                                                                                                                                {
+                                                                                                                                    "name": "\ud83c\udf0d List-Org",
+                                                                                                                                    "url": "https://www.list-org.com",
+                                                                                                                                    "type": "url"
+                                                                                                                                }
+                                                                                                                            ],
+                                                                                                                "type": "folder"
+                                                                                                            }
+                                                                                                        ],
+                                                                                                                "type": "folder"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Switzerland \ud83c\udde8\ud83c\udded",
+                                                                                            "children": [
+                                                                                                            {
+                                                                                                                "name": "\ud83d\udce6 Swiss OSINT Toolkit",
+                                                                                                                "url": "https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview",
+                                                                                                                "type": "url"
+                                                                                                            }
+                                                                                                        ],
+                                                                                            "type": "folder"
+                                                                                        }
+                                                                            ],
+                                                                "type": "folder"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Transportation \ud83d\ude82",
+                                            "children": [
+                                                            {
+                                                                "name": "License Plates \ud83e\udea7",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d PlatesMania",
+                                                                                    "url": "http://platesmania.com/?&lang=en",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Planes \u2708\ufe0f",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 FlightRadar24",
+                                                                                    "url": "https://www.flightradar24.com",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Ships \u26f5\ufe0f",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 MarineTraffic",
+                                                                                    "url": "https://www.marinetraffic.com/",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d\ud83e\ude99 VesselFinder",
+                                                                                    "url": "https://www.vesselfinder.com/",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "Trains \ud83d\ude85",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83c\udf0d Openrailway Map",
+                                                                                    "url": "https://www.openrailwaymap.org",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udcd2 Railway Cams",
+                                                                                    "url": "https://www.railserve.com/RailCams/",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "URLs \ud83d\udd17",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83d\udcd2 Shortlink verification",
+                                                                "url": "https://seintpl.github.io/osint/short-links-verification-cheatsheet",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d Unfurl",
+                                                                "url": "https://dfir.blog/unfurl",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83c\udf0d Where does this link goes",
+                                                                "url": "https://wheregoes.com",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Useful Software \ud83d\udd27",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83d\udce6 CSI Linux",
+                                                                "url": "https://csilinux.com",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "Data visualisation",
+                                                                "children": [
+                                                                                {
+                                                                                    "name": "\ud83d\udce6 diagrams.net",
+                                                                                    "url": "https://www.diagrams.net",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6\ud83e\ude99 LinkScope",
+                                                                                    "url": "https://www.accentusoft.com",
+                                                                                    "type": "url"
+                                                                                },
+                                                                                {
+                                                                                    "name": "\ud83d\udce6\ud83e\ude99 Maltego",
+                                                                                    "url": "https://www.maltego.com",
+                                                                                    "type": "url"
+                                                                                }
+                                                                            ],
+                                                                "type": "folder"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udce6 OSINT-VM",
+                                                                "url": "https://www.tracelabs.org/initiatives/osint-vm",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Usernames \ud83c\udff7",
+                                            "children": [
+                                                            {
+                                                                "name": "\ud83d\udcd2 Attack Surface",
+                                                                "url": "https://github.com/sinwindie/OSINT/blob/master/Username/USERNAME%20OSINT%20Attack%20Surface.pdf",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udce6 Maigret",
+                                                                "url": "https://github.com/soxoj/maigret",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udce6 Marple",
+                                                                "url": "https://github.com/soxoj/marple",
+                                                                "type": "url"
+                                                            },
+                                                            {
+                                                                "name": "\ud83d\udce6 sherlock",
+                                                                "url": "https://github.com/sherlock-project/sherlock",
+                                                                "type": "url"
+                                                            }
+                                                        ],
+                                            "type": "folder"
+                                        }
+                                        
+                                                ],
+                                    "type": "folder"
+                    }
+                ],
+    "type": "folder"
+}
